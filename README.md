@@ -1,7 +1,6 @@
 # Object-Oriented Design : Gorilla-Game
 
 ## Description
-- CS662 project 1
 - Design a game that 2 player can operate gorilla to use the banana to attack each other.
 - Each player blood initialze 10 blood.
 - Player be attacked by banana loose one blood.
