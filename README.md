@@ -1,10 +1,10 @@
 # Object-Oriented Design : Gorilla-Game
 
 ## Description
-- Design a game that 2 player can operate gorilla to use the banana to attack each other.
-- Each player blood initialze 10 blood.
-- Player be attacked by banana loose one blood.
-- Player that first become 0 blood loose.
+- Design a game that 2 players can operate gorilla to use the banana to attack each other.
+- Each player blood initilize to 10 blood.
+- Player be attacked by banana lose one blood.
+- Player that first become 0 blood, lose the game.
 
 ## Requirement
 - inheritence class
